@@ -1,7 +1,7 @@
 # Life-Expectancy-Prediction-using-Linear-Regression
 
 This project contains use of Machine Learning Algorithm called Linear Regression. <br>
-We have used the dataset Life_Expectancy_Data.csv to predict the life expectancy. There are various parameters and based on those parameters we have trained the model. <br>
+We have used the dataset <a href="https://github.com/starrylight90/Life-Expectancy-Prediction-using-Linear-Regression/blob/main/Life_Expectancy_Data.csv">Life_Expectancy_Data.csv </a>to predict the life expectancy. There are various parameters and based on those parameters we have trained the model. 
 I have performed various tasks to improve my command on python as well. <br>
 <b> Steps to perform Linear Regression: <br> </b>
 1. Import the required libraries <br>
