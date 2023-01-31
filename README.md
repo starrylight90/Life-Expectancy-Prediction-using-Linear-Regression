@@ -17,4 +17,4 @@ I have performed various tasks to improve my command on python as well. <br>
 11. Print the accuracy of the model via accuracy and score <br>
 12. Check the RMSE, RAME, R2_score, etc <br>
 13. Successful Completion of the Code <br>
-14. <b> Thankyou </b>
+ <b> Thankyou </b>
